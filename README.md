@@ -1,5 +1,5 @@
 # Spanish Specialization Answers Repo
-Contributors :- Unknown (Really thank you guys)
+Answers_Contributor :- Unknown
 ------------------------------------------------
 Course-1 :- spanish vocabulary meeting people
 Repo_link:- https://github.com/ravindra1111/SpanishAnswers_Repo/tree/master/Course_1
@@ -22,5 +22,5 @@ Repo_link:- https://github.com/ravindra1111/SpanishAnswers_Repo/tree/master/Cour
 Coursera_Link: https://www.coursera.org/learn/spanish-vocabulary-project/home/welcome
 ------------------------------------------------
 
-For any reviews share your message in this group 
+For any peer reviews of your assignments, share your message in this group 
 https://t.me/joinchat/RIQaxRgt5q2BBeH_hPO57g
